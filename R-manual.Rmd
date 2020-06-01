@@ -205,3 +205,5 @@ To create dummies easily you can use the package `dummies`.
 This document was created using `R markdown`. It's an easy way to create reports with embedded `R` code. For more information you can go to: 
 https://rmarkdown.rstudio.com/lesson-1.html
 
+For mistakes or suggestions you can propose them through GitHub:
+https://github.com/ddabed/r-intro
