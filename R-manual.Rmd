@@ -17,7 +17,7 @@ With this tutorial you will be able to get started with R. You will become famil
 
 ## Downloading and installing RStudio
 
-In order to download the RStudio visit <https://rstudio.com> and download the RStudio Desktop free open source edition for your system. This edition includes all the features of the program, the difference with the pro version is the dedicated support and commercial licence.
+First, you need to install R. Go to <https://r-project.org>, download R from any mirror, preferably from one that is close to you, and follow the installation instructions. Next, you need to install RStudio, visit <https://rstudio.com> and download the RStudio Desktop free open source edition for your system. This edition includes all the features of the program, the difference with the pro version is the dedicated support and commercial licence.
 
 ## First look: The workspace
 
